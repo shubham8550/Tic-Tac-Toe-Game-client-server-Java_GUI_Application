@@ -2,7 +2,7 @@
 
 Tic Tac Toe
 -----------
-Download EXE[Windows](https://drive.google.com/uc?export=download&id=1oDsPmqxt_-cWety9i-ZazlcucV05_cfe)
+[Download EXE[Windows]](https://drive.google.com/uc?export=download&id=1oDsPmqxt_-cWety9i-ZazlcucV05_cfe)
 
 
 Features
