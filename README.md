@@ -10,9 +10,6 @@ Tic Tac Toe Client Server Version
 
 Features
 --------
-- 2 player game play
-
-- Swing GUI
 
 Screenshot
 ----------
@@ -21,8 +18,6 @@ Screenshot
 Usage
 -----
 ```
-Import Project in NetBeans IDE
-Clean and Build Project
-Run Project
+
 
 ```
